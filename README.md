@@ -1,1 +1,1 @@
-# Data_miningg
+# Data_mining
